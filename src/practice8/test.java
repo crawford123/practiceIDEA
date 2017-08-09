@@ -24,13 +24,31 @@ public class test {
       /* Animal a=new Cat();
        Cat c=(Cat)a;
        c.sleep();*/
-        AnimalEat(new Cat());
-        AnimalEat(new Dog());
+       /* AnimalEat(new Cat());
+        AnimalEat(new Dog());*/
+       /*BigClass bigClass=new BigClass();
+       bigClass.sleep();
+       bigClass.study();
+       SmallClass smallClass=new SmallClass();
+       smallClass.sleep();
+       smallClass.study();*/
+       /*DoStudent doStudent=new DoStudent();
+       doStudent.dosome(new SmallClass());
+       doStudent.dosome(new BigClass());*/
+       /* Fu fu=new Zi();
+        System.out.println(fu.num);
+        Zi zi=new Zi();
+        System.out.println(zi.num);*/
+       /* PCI MainBoard  NetCard run userPCI  主板，网卡测试*/
 
-    }
+    }/*  MainBoard mainBoard=new MainBoard();
+       mainBoard.run();
+       mainBoard.userPCI(new NetCard());
+       mainBoard.userPCI(null);*/
 
 
-    public static  void  AnimalEat(Animal a){
+
+    /*public static  void  AnimalEat(Animal a){
 
         a.eat();
         //如果a的类型是Cat就执行
@@ -38,5 +56,6 @@ public class test {
         Cat c=(Cat)a;
         c.sleep();
         }
-    }
+    }*/
+
 }
