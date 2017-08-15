@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7eccdfd-e9f6-4dfb-90d9-8f9b13fe7880" name="Default" comment="完成了Java基础第章的练习。">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice12/MyThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice12/MyThreadRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice12/SellTicketThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice12/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/practice12/Test2.java" />
+    <list default="true" id="f7eccdfd-e9f6-4dfb-90d9-8f9b13fe7880" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$1.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$1fini.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$1fini.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$Inner.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$Inner.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$Inner1.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$Inner1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$Inners.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer$Inners.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/Outer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/practice IDEA/practice9/test.class" afterPath="$PROJECT_DIR$/out/production/practice IDEA/practice9/test.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -907,7 +909,7 @@
       <workItem from="1502439223002" duration="3759000" />
       <workItem from="1502459416549" duration="164000" />
       <workItem from="1502536642537" duration="907000" />
-      <workItem from="1502762163375" duration="895000" />
+      <workItem from="1502762163375" duration="1092000" />
     </task>
     <task id="LOCAL-00001" summary="完成了Java基础第八、九章的练习。">
       <created>1502247631478</created>
@@ -937,11 +939,18 @@
       <option name="project" value="LOCAL" />
       <updated>1502381004174</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="完成了Java第十二章的基础练习。">
+      <created>1502763431594</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502763431594</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78912000" />
+    <option name="totallyTimeSpent" value="79109000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -963,9 +972,9 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5103011" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4332784" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53706753" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19934101" sideWeight="0.4941435" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24382208" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.523888" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22314675" sideWeight="0.46187365" order="0" side_tool="false" content_ui="combo" />
@@ -1075,7 +1084,8 @@
     <MESSAGE value="完成了Java基础第八、九章的练习。" />
     <MESSAGE value="完成了Java基础第十和第十一章的练习。" />
     <MESSAGE value="完成了Java基础第十、十一章的练习。" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成了Java基础第十、十一章的练习。" />
+    <MESSAGE value="完成了Java第十二章的基础练习。" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成了Java第十二章的基础练习。" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -1382,6 +1392,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="5" column="12" lean-forward="false" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1389,6 +1400,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#SellTicketThread#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
