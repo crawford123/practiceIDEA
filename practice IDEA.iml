@@ -4,9 +4,33 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/exam" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/.idea" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/com" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/out" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/BinarySearch" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/DesignPattern" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/DynamicProxyPractice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/enum" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/jdk8Practice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice10" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice12" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice14" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice16" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice17" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice5and6" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice7" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice8" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/practice9" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ReflectionPractice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/SortingPractice" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/ThreadPool" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
-
